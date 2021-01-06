@@ -1,6 +1,6 @@
 # Churn-Prediction
 
-Implemented an Artificical Neural Network to predict whether a customer will leave an organization or continue to stay with them.
+Implemented an Artificical Neural Network using Tensorflow to predict whether a customer will leave an organization or continue to stay with them.
 
 Used Churn Prediction Dataset.
 
